@@ -366,7 +366,6 @@ public class Main {
                 modes.add(numList[i]);
             }
         }
-    
         return modes;
 }
 }
